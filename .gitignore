@@ -1,0 +1,45 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Rider/JetBrains
+.idea/
+
+# Test results
+TestResults/
+
+# Dotnet tools
+*.coverage
+*.coveragexml
+*.testresult.json
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Publish outputs
+publish/
+
+# Others
+_ReSharper*/
