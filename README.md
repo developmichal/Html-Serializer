@@ -1,5 +1,5 @@
 
-# 🌐 Html-Serializer – HTML Parsing into a Tag Tree (in .NET)
+# 🌐 Html-Serializer – HTML Parsing into a Tag Tree
 
 **Status:** Project written in C# (.NET Core)
  
