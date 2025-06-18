@@ -1,5 +1,5 @@
 
-# 🌐 Html-Serializer – HTML Parsing into a Tag Tree
+#  Html-Serializer – HTML Parsing into a Tag Tree
 
 **Status:** Project written in C# (.NET Core)
  
@@ -17,8 +17,8 @@ The system allows reading, parsing, printing, and even processing HTML structure
 
 ## 🧩 Main features
 
-- 📄 Loading HTML from a file or string
-- 🌳 Building a full tag tree including internal content
-- 🏷️ Analyzing tag attributes
-- 🔍 Search functions by tag / ID / class
-- 🖨️ Printing a hierarchical structure
+-  Loading HTML from a file or string
+-  Building a full tag tree including internal content
+-  Analyzing tag attributes
+-  Search functions by tag / ID / class
+-  Printing a hierarchical structure
